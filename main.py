@@ -15,4 +15,3 @@ register_tortoise(
     generate_schemas=True,
     add_exception_handlers=True,
 )
-@app
